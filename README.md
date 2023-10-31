@@ -1,10 +1,10 @@
-# 📦 Dashboard (`version 2`)
+# 📦 Dashboard 
 
 This is a dashboard app created in Python using Streamlit.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dash-board.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://github.com/SafnasKaldeen/5G-Energy-Prediction/)
 
 LightGBM OOF score: 1.1085339928864313
 CatBoost OOF score: 1.3423506083239856
